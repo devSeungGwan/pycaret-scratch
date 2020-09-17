@@ -1,2 +1,4 @@
 # pycaret-scratch
-머신러닝 코드를 쉽게 작성하여 실험해볼 수 있는 라이브러리인 pycaret을 연습하는 Repo
+
+document: https://pycaret.org/
+scikit-learn 내 머신러닝 api를 캡슐화하여 빠르게 환경을 구성할 수 있는 것이 장점이다.
